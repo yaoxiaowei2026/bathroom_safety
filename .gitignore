@@ -1,0 +1,7 @@
+arpa/
+netinet/
+sys/
+*.rar
+*.bak
+*.o
+*.tar.gz
